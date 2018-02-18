@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="AnyAudioBlack">#dd000000</color>
+    <color name="AnyAudioGrey">#89000000</color>
+    <color name="AnyAudioLightGrey">#1e000000</color>
+
+    <color name="AnyAudioPrimaryColor">#ff6e2c</color>
+    <color name="AnyAudioPrimaryGradietStart">#f44336</color>
+    <color name="AnyAudioPrimaryGradientEnd">#ffa726</color>
+    <color name="AnyAudioGrey189">#bdbdbd</color>
+    <color name="AnyAudioGrey224">#e0e0e0</color>
+    <color name="AnyAudioPrimaryBackground">#1A0907</color>
+    <color name="AnyAudioPlayerBackground">#571e18</color>
+    <color name="AnyAudioPrimaryBackgroundLight">#0bffffff</color>
+
+    <color name="AnyAudioPrimaryColor40">#64ff6e2c</color>
+    <color name="AnyAudioPrimaryGradientStart50">#80f44336</color>
+    <color name="AnyAudioPrimaryGradientEnd50">#80ffa726</color>
+
+    <color name="AnyAudioPrimaryGradientStart75">#bbf44336</color>
+    <color name="AnyAudioPrimaryGradientEnd75">#bbffa726</color>
+
+    <color name="AnyAudioSearchItemBgColor">#19e0e0e0</color>
+    
+    <!--
+    >> explore card alpha 50% gradient primary gradient
+    >> search item bg color : 224 apha 8%
+
+    >> seekbar remaining progress :  ff6e2c alpha 40%
+    >> progress bar remaining progress  primary color alpha 40%
+    >> play btn primary gradient alpha 75%
+    >> explore duration bg prim-gradient :  50%
+    >>  home panel title : 224
+    >> toolbar text color :  224
+    >> autoplay :
+    -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <color name="BottomPlayerColor">#571e18</color>
+    <color name="PlayerInfoColor">#bdbdbd</color>
+    <color name="CollapsePlayerBtnColor">#ff6e2c</color>
+
+    <color name="colorPrimary">#1A0907</color>
+    <color name="colorPrimaryDark">#1a0907</color>
+    <color name="colorAccent">#FFA726</color>
+    <color name="pendingProgressColor">#80ff6e2c</color>
+    <color name="lightOrange">#80ffa726</color>
+
+
+
+    <color name="PrimaryColor">#f44336</color>
+    <color name="Orange">#FFA726</color>
+    <color name="DarkChocolate">#1A0907</color>
+    <color name="Gray">#9e9e9e</color>
+
+
+    <color name="PrimaryColorDark">#d32f2f</color>
+    <color name="White">#ffffff</color>
+    <color name="ContinueBtnPressedColor">#aaf44336</color>
+
+    <color name="AccentColor">#254E70</color>
+    <color name="ExtraInfoTextColor">#767676</color>
+    <color name="DividerColor">#66909090</color>
+    <color name="TabUnselectionColor">#99ffffff</color>
+    <color name="DownloadingPageBackground">#f1f1f1</color>
+    <color name="NoWifiColor">#33000000</color>
+    <color name="DownloadButtonColor">#daf44336</color>
+    <color name="StreamButtonColor">#AA000000</color>
+    <color name="TitleColor">#dd000000</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="secondaryProgressTint">#66f44336</color>
+    <color name="stream_fragment_background">#fefefe</color>
+
+    <color name="thumbnail_placeholder_color">#22f44336</color>
+    <color name="search_item_bgcolor">#30fefefe</color>
+
+
+</resources>
