@@ -1,9 +1,4 @@
 ## AnyAudio - Open source audio streaming app
-
-Features
- -  Turn on/off fan
- - Turn on/off lights
- - Shows realtime temprature of Room
 - - -
 ### Screenshots
 ![anyaudio_presentaion_02](https://user-images.githubusercontent.com/10809719/36348290-79ce85ce-1492-11e8-8bdb-bd1aaee0158d.png)
